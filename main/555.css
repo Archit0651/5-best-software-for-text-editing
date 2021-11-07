@@ -1,0 +1,14 @@
+	a:link, a:visited { 
+  background-color: aqua; 
+  color: navy; 
+  padding: 15px 30px; 
+  text-align: center; 
+  text-decoration: underline; 
+  display: inline-block; 
+} 
+a:hover, a:active { 
+  background-color: red; 
+} 
+{
+  backgroun-repeat:no-repeat; background size:200px 300px
+}
